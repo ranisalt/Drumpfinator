@@ -1,0 +1,16 @@
+{
+  "title": "Drumpfinator",
+  "name": "Drumpfinator",
+  "version": "0.0.1",
+  "description": "Add this to your browser and replace all instances of Trump with Drumpf.",
+  "main": "index.js",
+  "author": "Nishanth Vijayan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
