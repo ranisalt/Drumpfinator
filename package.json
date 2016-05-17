@@ -4,12 +4,20 @@
   "version": "0.1.0",
   "description": "Substitui os nomes dos políticos envolvidos na Lava Jato pelo apelido.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranisalt/lava-jato.git"
+  },
   "author": "Ranieri Althoff <ranisalt+lavajato@gmail.com>",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranisalt/lava-jato/issues"
+  },
+  "homepage": "https://github.com/ranisalt/lava-jato#readme",
   "keywords": [
     "jetpack"
   ]
