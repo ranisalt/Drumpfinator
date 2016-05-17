@@ -1,23 +1,16 @@
 {
-  "title": "Drumpfinator Make Trump Drumpf Again",
-  "name": "drumpfinator_trump",
-  "version": "0.0.2",
-  "description": "Add this to your browser and replace all instances of Trump with Drumpf.",
+  "title": "Lava Jato",
+  "name": "lava-jato",
+  "version": "0.1.0",
+  "description": "Substitui os nomes dos políticos envolvidos na Lava Jato pelo apelido.",
   "main": "index.js",
-  "author": "Nishanth Vijayan",
+  "author": "Ranieri Althoff <ranisalt+lavajato@gmail.com>",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
   },
   "license": "MIT",
   "keywords": [
-    "donald",
-    "trump",
-    "drumpf",
-    "proud",
-    "of",
-    "heritage",
-    "#makedonalddrumpfagain",
-    "donaldjdrumpf"
+    "jetpack"
   ]
 }
