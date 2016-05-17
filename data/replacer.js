@@ -37,7 +37,7 @@ const replMap = {
     "raul jungmann": "Bruto",
     "renan calheiros": "Atleta",
     "romero jucá": "Cacique",
-    "jucá": "cacique",
+    "jucá": "Cacique",
     "sergio cabral": "Proximus",
     "sérgio cabral": "Proximus",
     "silval barbosa": "Boiadeiro",
